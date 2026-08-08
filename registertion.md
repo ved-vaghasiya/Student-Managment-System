@@ -5,3 +5,4 @@
 - Aharcaard
 - Birthcertificate
 - PAN card
+- add location 
