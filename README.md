@@ -10,8 +10,5 @@ It helps to manage the student to do its all tasks and works ,easily
 ```
 🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇
 🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇
-#***Requirmnet for regestiration***
-
-- Adhar card
-- Pan cardd
-Locaation : Surat 
+- location 
+- surat
